@@ -1,7 +1,0 @@
-{
-  "SQLALCHEMY_DATABASE_URI": "postgresql+pg8000://db_user:db_user@localhost:5432/prod_db",
-  "SECRET_KEY": "7831242hbjdfsh74378adjk",
-  "SESSION_TYPE": "redis",
-  "SESSION_REDIS": "redis://localhost:6379/0",
-  "UPLOAD_FOLDER": "/home/aleksandar/Downloads"
-}
