@@ -17,7 +17,7 @@ db.init_app(app)
 upload_folder = app.config.get('UPLOAD_FOLDER')
 import model
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='OPENAI API KEY')
 
 
 @login_manager.user_loader
